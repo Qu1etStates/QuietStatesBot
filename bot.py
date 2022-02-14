@@ -22,4 +22,4 @@ async def test(ctx, message):
 
 keep_alive.keep_alive()
 login = os.environ["BOT_TOKEN"]
-client.run("OTQyOTE3Mjk3NDgyMzcxMTAy.YgreKg.RYEV2cqnExhVhQ7tfjiY_YOnFSI")
+client.run(login)
